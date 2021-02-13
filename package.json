@@ -1,0 +1,14 @@
+{
+  "name": "first_backend_project",
+  "version": "1.0.0",
+  "description": "A server with http package",
+  "main": "index.js",
+  "author": "joel",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
